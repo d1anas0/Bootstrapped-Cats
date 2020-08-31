@@ -1,0 +1,20 @@
+blockquote > p {
+    justify-content: center;
+    color: rgb(36, 132, 196);
+    font-style: italic;
+    font-size: 2em;
+}
+.squares {
+    width: 300px;
+    height: 300px;
+    border: solid 50px rgb(54, 58, 65);
+}
+.image {
+    padding: 50px;
+}
+#square1 {
+    background: rgb(221, 166, 243);
+}
+#square2 {
+    background: rgb(161, 223, 220);
+}
